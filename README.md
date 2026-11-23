@@ -57,7 +57,7 @@ node scripts/verify-readme.mjs
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=700&size=18&color=8FA3D9&center=true&vCenter=true&width=420&height=40&duration=1&pause=1000000&letterSpacing=6px&lines=ARCHITECTURE" alt="Architecture" /></p>
 
-Planned structure: `src/queue`, `src/engine_host`, `src/sign`. Jobs are signed; dual assignment and disagreement handling live on [server](https://github.com/corvin-chess/server). Measured throughput (CV-420) and dual-assign agreement tracking (CV-421) are Planned. See organization ADRs and [website](https://github.com/corvin-chess/website) once docs are published.
+Planned structure: `src/queue`, `src/engine_host`, `src/sign`. Job signing is Planned. Dual assignment and disagreement handling are Planned on [server](https://github.com/corvin-chess/server). Measured throughput (CV-420) and dual-assign agreement tracking (CV-421) are Planned. See organization ADRs and [website](https://github.com/corvin-chess/website) once docs are published.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0b0d12,35:8fa3d9,70:c9a227,100:0b0d12" width="100%" alt="" />
 
